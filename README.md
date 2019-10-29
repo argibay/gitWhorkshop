@@ -1,5 +1,3 @@
 Hola
 
-uno
-
-Dos
+Creado index.php
